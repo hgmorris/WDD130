@@ -1,3 +1,8 @@
 html{
-    background-color: aqua;
+    background-color: rgb(225, 34, 0);
+
 }
+
+    .anotherColor {
+        background-color: aliceblue;
+    }
