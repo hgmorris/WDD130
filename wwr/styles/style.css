@@ -22,10 +22,10 @@ nav a {
  text-align: center; 
 }
 body{
-    background-color: #d5f0f0;
+    background-color: burlywood;
 }
 header {
-    background-color:rgba(161, 163, 159, 0.229);
+    background-color:rgba(139, 205, 74, 0.229);
 }
 nav a:hover {
     background-color: beige;
