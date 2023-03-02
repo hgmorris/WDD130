@@ -209,6 +209,17 @@ footer p a:hover {
 .button-box{
     margin-bottom: 150px;
 }
+
+/* start of subpage css */
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
